@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pygrpcLibPoc
+Version: 0.2
+Requires-Dist: psycopg2
+Requires-Dist: asyncpg
+Requires-Dist: aiohttp-requests
