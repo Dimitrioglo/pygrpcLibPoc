@@ -8,6 +8,7 @@ setup(
     packages=find_packages(),
     install_requires=[
        "psycopg2",
+       "asyncpg",
        "aiohttp-requests"
     ],
 )
