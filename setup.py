@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pygrpcLibPoc',
+    name='todo',
     version='0.3',
     packages=[
         "todo",
